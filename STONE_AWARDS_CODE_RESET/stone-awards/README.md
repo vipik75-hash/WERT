@@ -26,7 +26,7 @@
 ```js
 window.STONE_CONFIG = {
   supabaseUrl: "https://ВАШ-ПРОЕКТ.supabase.co",
-  supabaseAnonKey: "ВАШ-ПУБЛИЧНЫЙ_ANON_KEY"
+  supabaseAnonKey: "sb_publishable_MD0dLy13x_9idtzu_uUk-Q_0lWtcctC"
 };
 ```
 
